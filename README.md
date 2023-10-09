@@ -38,6 +38,16 @@ EAP consists of Marvell PJ4C B0 rev 1 cores, ARMv7 CORTEX-A8 running FreeBSD 9 k
 
 As EAP Core software is unsigned, unencrypted and easily replaceable on PS4 HDD with a PS4 kernel exploit, it is possible to run homebrew code on EAP processor.
 
+# Syscon
+
+Syscon is, together with Southbridge, one of the main chips responsible for taking care of the functioning of APU, peripherals, etc.
+
+PS4 Syscon is codenamed Colwick. It is a custom Renesas RL78/G13.
+
+Folder contains all FW found for now.
+
+[More info](https://www.psdevwiki.com/ps4/Syscon_Hardware)
+
 # Torus (WiFi and Bluetooth)
 
 The Wireless communication module firmware is stored within the Flash-Main of the PS4 in a file designated C0020001. It is updated during the firmware updates of the PS4. 
