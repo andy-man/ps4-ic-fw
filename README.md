@@ -4,6 +4,8 @@ This collection was kindly provided by zecoxao
 
 **Structure:** [eap/emc/torus] / [type] / [fw_range]_[md5].2bls
 
+**Example:** `emc/24/1000-1001_421ea7fec14cf827f6380326ab9fe42b.2bls`
+
 # EMC and EAP
 
 PS4 southbridge contains two processors named EMC and EAP used on boot, during rest mode and for servicing.
