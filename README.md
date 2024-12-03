@@ -65,3 +65,19 @@ This problem is repairable, given you have a copy of the same firmware for your 
 * If DS4 controller does not sync in safe mode, it may be issue on southbridge/usb port.
 
 * If Bt/Wifi firmware is VALID but there is still no controller sync anywhere other than safemode, the PS4 may physically need a new module which match with its revision.
+
+# Torus versions:
+
+**Marvell Avastar 88W8797** *(Torus 1)*
+- SP88W8797 `10xx` `11xx`
+- Sony J20H071 `11xx`
+
+**Marvell Avastar 88W8897** *(Torus 2)*
+- DHSM-PS97 `12xx`
+- AW-NB218-2-22180 `12xx`
+- Sony AW-CB262 `20xx`
+- Sony J20H091 `20xx` `21xx`
+
+**MediaTek MT7667BSN** *(Torus 3)*
+- Sony J20H096 `22xx` `71xx` `72xx`
+- Sony AW-CB319 `22xx` `72xx`
